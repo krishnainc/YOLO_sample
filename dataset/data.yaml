@@ -1,0 +1,9 @@
+path: dataset  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: val/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: class1  # replace with your class names
+  1: class2
+  # Add more classes as needed
